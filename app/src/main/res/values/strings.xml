@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MultiDataActivity</string>
+    <string name="title">Passing data between activiies</string>
+    <string name="text_header">Second Activity</string>
+    <string name="text_hint">Favorite color</string>
+    // button text
+    <string name="buttonDataSum">Compute Sum</string>
+    <string name="buttonSend">Send</string>
+</resources>
